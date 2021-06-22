@@ -9,7 +9,12 @@ class _TrackerState extends State<Tracker> {
   @override
   Widget build(BuildContext context) {
     Size size = MediaQuery.of(context).size;
-
-    return Scaffold();
+    return Scaffold(
+      body: Center(
+        child: Text(
+          'Hello World!'
+        ),
+      ),
+    );
   }
 }
