@@ -10,8 +10,8 @@ LinearGradient kGradientShimmer = LinearGradient(
   begin: Alignment.centerLeft,
   end: Alignment.centerRight,
   colors: [
-    Colors.grey[300]!,
-    Colors.grey[100]!,
+    Colors.grey[300],
+    Colors.grey[100],
   ],
 );
 

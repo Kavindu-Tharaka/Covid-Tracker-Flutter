@@ -7,7 +7,7 @@ class NavigationOption extends StatelessWidget {
   final Function() onSelected;
 
   NavigationOption(
-      {required this.title, required this.selected, required this.onSelected});
+      {this.title, this.selected, this.onSelected});
 
   @override
   Widget build(BuildContext context) {
