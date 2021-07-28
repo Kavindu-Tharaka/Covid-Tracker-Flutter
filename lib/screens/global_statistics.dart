@@ -104,7 +104,7 @@ class GlobalStatistics extends StatelessWidget {
                       style: TextStyle(
                         color: color,
                         fontWeight: FontWeight.bold,
-                        fontSize: 28,
+                        fontSize: 22,
                       ),
                     ),
 
@@ -129,7 +129,7 @@ class GlobalStatistics extends StatelessWidget {
                       style: TextStyle(
                         color: color,
                         fontWeight: FontWeight.bold,
-                        fontSize: 28,
+                        fontSize: 22,
                       ),
                     ),
 

@@ -61,7 +61,7 @@ class _GlobalState extends State<Global> {
             builder: (context, snapshot) {
               if (snapshot.hasError)
                 return Center(
-                  child: Text("Error"),
+                  child: Text("Error Happened. Check your Internet Connection."),
                 );
               switch (snapshot.connectionState) {
                 case ConnectionState.waiting:

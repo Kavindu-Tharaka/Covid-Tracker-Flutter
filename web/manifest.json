@@ -1,6 +1,6 @@
 {
-    "name": "covid_flutter_app",
-    "short_name": "covid_flutter_app",
+    "name": "Covid-19 Dashboard",
+    "short_name": "Covid-19 Dashboard",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

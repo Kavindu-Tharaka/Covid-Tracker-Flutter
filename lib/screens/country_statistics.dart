@@ -84,7 +84,7 @@ class CountryStatistics extends StatelessWidget {
                   style: TextStyle(
                     color: leftColor,
                     fontWeight: FontWeight.bold,
-                    fontSize: 28,
+                    fontSize: 22,
                   ),
                 ),
               ],
@@ -121,7 +121,7 @@ class CountryStatistics extends StatelessWidget {
                   style: TextStyle(
                     color: rightColor,
                     fontWeight: FontWeight.bold,
-                    fontSize: 28,
+                    fontSize: 22,
                   ),
                 ),
               ],
